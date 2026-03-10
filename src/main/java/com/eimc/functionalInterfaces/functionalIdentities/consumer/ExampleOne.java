@@ -1,7 +1,5 @@
 package com.eimc.functionalInterfaces.functionalIdentities.consumer;
 
-
-
 import com.eimc.domain.Brand;
 import com.eimc.domain.Car;
 import com.eimc.domain.FuelType;

@@ -7,18 +7,6 @@
     <groupId>com.eimc</groupId>
     <artifactId>java-functional-programming</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <configuration>
-                    <source>21</source>
-                    <target>21</target>
-                </configuration>
-            </plugin>
-        </plugins>
-    </build>
 
     <properties>
 
@@ -29,7 +17,7 @@
         <guava.version>32.0.1-android</guava.version>
 
         <!--    AssertJ  -->
-        <j.assert.version>3.21.0</j.assert.version>
+        <j.assert.version>3.27.7</j.assert.version>
 
         <!--    Junit   -->
         <junit.version>5.8.1</junit.version>
